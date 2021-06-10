@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/ladlf3k46y4tvkit?svg=true)](https://ci.appveyor.com/project/Mogushkov/ajs-diplomrg)
+
 # AJS. Retro Game
 
 ###### tags: `netology` `advanced js`
