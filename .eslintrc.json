@@ -12,6 +12,9 @@
         "sourceType": "module"
     },
     "rules": {
+        "max-len": "off",
+        "no-unused-vars": "off",
+        "no-alert": "off",
         "no-restricted-syntax": [
             "error",
             "LabeledStatement",
